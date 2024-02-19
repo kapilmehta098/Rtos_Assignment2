@@ -1,4 +1,4 @@
-# Rtos_Assignment2
+# Rtos_Assignment Group Chat Project
 Group chat
 
 To run the code on server side: gcc -o server server.c -lpthread ./server 5555
